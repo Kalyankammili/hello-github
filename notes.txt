@@ -1,1 +1,3 @@
 This is my first file added directly on GitHub!
+This line was added on my feature branch!
+Update notes.txt on feature branch
